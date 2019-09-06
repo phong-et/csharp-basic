@@ -1,0 +1,14 @@
+
+obj/
+
+bin/
+
+Properties/
+
+Web.config
+
+Web.Debug.config
+
+Web.Release.config
+
+WebOOP.csproj.user
