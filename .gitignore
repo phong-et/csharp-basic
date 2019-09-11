@@ -12,3 +12,5 @@ Web.Debug.config
 Web.Release.config
 
 WebOOP.csproj.user
+
+.vs/
